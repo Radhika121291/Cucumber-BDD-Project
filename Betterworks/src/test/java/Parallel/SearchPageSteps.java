@@ -1,16 +1,10 @@
 package Parallel;
 
 import com.qa.factory.DriverFactory;
-import com.qa.pages.LoginPage;
 import com.qa.pages.SearchPage;
-import io.cucumber.java.After;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
 
 import static org.junit.Assert.assertTrue;
 
